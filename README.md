@@ -21,4 +21,4 @@ http://127.0.0.1:8000/delete/{id} - Delete Job
 
 }
 
-Note -  Not used any POSTMAN for CRUD functions. 
+Note -  Not Used Postman
